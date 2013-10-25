@@ -1,0 +1,22 @@
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+
+
+h1 {
+	font-style: "Arial Black";
+	background-color: pink;
+}
+
+h2:hover {
+	color:#ADFF2F;
+}
+
+
+th {
+  text-align: left;
+  margin-left: 20px;
+}
